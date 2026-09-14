@@ -1,0 +1,11 @@
+[project]
+name = "fokker-planck-pinn-2"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.3",
+    "matplotlib>=3.11.2",
+    "numpy==1.26.4",
+    "torch==2.2.2",
+]
